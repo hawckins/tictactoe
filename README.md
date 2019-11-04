@@ -1,3 +1,5 @@
+To get the repo do `git clone https://github.com/hawckins/tictactoe`
+
 Tic-Tac-Toe Game
 ==================
 
