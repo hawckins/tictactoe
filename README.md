@@ -1,2 +1,3 @@
 # tictactoe
-Tic-Tac-Toe Gabe
+Tic-Tac-Toe Game
+
